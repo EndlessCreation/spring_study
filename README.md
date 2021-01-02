@@ -21,14 +21,14 @@
 - 매 주 한 챕터 씩 공부한 이후 깔끔하게 정리
 
 ## 스터디 제출 현황
-| 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 |
+| <span STYLE="font-size:7px">참여자</span> | <span STYLE="font-size:7px">1주차</span> | <span STYLE="font-size:7px">2주차</span> | <span STYLE="font-size:7px">3주차</span> | <span STYLE="font-size:7px">4주차</span> | <span STYLE="font-size:7px">5주차</span> | <span STYLE="font-size:7px">6주차</span> | <span STYLE="font-size:7px">7주차</span> | <span STYLE="font-size:7px">8주차</span> | <span STYLE="font-size:7px">9주차</span> | <span STYLE="font-size:7px">10주차</span> | <span STYLE="font-size:7px">11주차</span> | <span STYLE="font-size:7px">12주차</span> | <span STYLE="font-size:7px">13주차</span> | <span STYLE="font-size:7px">14주차</span> | <span STYLE="font-size:7px">15주차</span> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 김건훈 ||||||||||||||||
-| 김성규 ||||||||||||||||
-| 김예림 ||||||||||||||||
-| 박지수 ||||||||||||||||
-| 이상진 ||||||||||||||||
-| 이영현 ||||||||||||||||
-| 한태현 ||||||||||||||||
+| <span STYLE="font-size:7px">김건훈</span> ||||||||||||||||
+| <span STYLE="font-size:7px">김성규</span> ||||||||||||||||
+| <span STYLE="font-size:7px">김예림</span> ||||||||||||||||
+| <span STYLE="font-size:7px">박지수</span> ||||||||||||||||
+| <span STYLE="font-size:7px">이상진</span> ||||||||||||||||
+| <span STYLE="font-size:7px">이영현</span> ||||||||||||||||
+| <span STYLE="font-size:7px">한태현</span> ||||||||||||||||
 
 
