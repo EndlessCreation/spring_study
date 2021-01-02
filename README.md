@@ -11,24 +11,26 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/yelimkim98"><img src="https://avatars1.githubusercontent.com/u/28949340?s=460&u=6efb3238ffe9f1b383c9255445eb5d39d0a82a03&v=4" width="100px;" alt=""/><br /><sub><b>김예림</b></sub></a></td>
+        <td align="center"><a href="https://github.com/JisooPark27"><img src="https://avatars3.githubusercontent.com/u/32264819?s=460&v=4" width="100px;" alt=""/><br /><sub><b>박지수</b></sub></a></td>
+        <td align="center"><a href="https://github.com/Tae-Hyeon
+"><img src="https://avatars1.githubusercontent.com/u/20275668?s=400&v=4" width="100px;" alt=""/><br /><sub><b>한태현</b></sub></a></td>
     </tr>
 </table>
 
 ## 스터디 진행 방식
-- 매 주 토요일 오후 7시
-- 초보 웹 개발자를 위한 스프링5 프로그래밍 입문
+- 매 주 토요일 오후 7시에 진행합니다.
+- '초보 웹 개발자를 위한 스프링5 프로그래밍 입문' 책으로 진행합니다.
 - 발표는 로테이션으로 정해진 사람이 발표를 한다.
-- 매 주 한 챕터 씩 공부한 이후 깔끔하게 정리
+- 매 주 한 챕터 씩 공부한 이후 깔끔하게 정리합니다.
 
 ## 스터디 제출 현황
-| <span STYLE="font-size:7px">참여자</span> | <span STYLE="font-size:7px">1주차</span> | <span STYLE="font-size:7px">2주차</span> | <span STYLE="font-size:7px">3주차</span> | <span STYLE="font-size:7px">4주차</span> | <span STYLE="font-size:7px">5주차</span> | <span STYLE="font-size:7px">6주차</span> | <span STYLE="font-size:7px">7주차</span> | <span STYLE="font-size:7px">8주차</span> | <span STYLE="font-size:7px">9주차</span> | <span STYLE="font-size:7px">10주차</span> | <span STYLE="font-size:7px">11주차</span> | <span STYLE="font-size:7px">12주차</span> | <span STYLE="font-size:7px">13주차</span> | <span STYLE="font-size:7px">14주차</span> | <span STYLE="font-size:7px">15주차</span> |
+| 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <span STYLE="font-size:7px">김건훈</span> ||||||||||||||||
-| <span STYLE="font-size:7px">김성규</span> ||||||||||||||||
-| <span STYLE="font-size:7px">김예림</span> ||||||||||||||||
-| <span STYLE="font-size:7px">박지수</span> ||||||||||||||||
-| <span STYLE="font-size:7px">이상진</span> ||||||||||||||||
-| <span STYLE="font-size:7px">이영현</span> ||||||||||||||||
-| <span STYLE="font-size:7px">한태현</span> ||||||||||||||||
-
+| 김건훈 ||||||||||||||||
+| 김성규 ||||||||||||||||
+| 김예림 ||||||||||||||||
+| 박지수 ||||||||||||||||
+| 이상진 ||||||||||||||||
+| 이영현 ||||||||||||||||
+| 한태현 ||||||||||||||||
 
